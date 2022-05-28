@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-28T16:54:40 ICT" name="User Nopcommerce" finished-at="2022-05-28T16:54:40 ICT" duration-ms="98">
+    <groups>
+    </groups>
+    <test started-at="2022-05-28T16:54:40 ICT" name="Run on Chrome" finished-at="2022-05-28T16:54:40 ICT" duration-ms="98">
+      <class name="com.nopecommerce.user.User_01_Register_Login">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.nopecommerce.user.User_01_Register_Login@130161f7]" started-at="2022-05-28T16:54:40 ICT" name="beforeClass" finished-at="2022-05-28T16:54:40 ICT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_01_Register_Empty_Dat()[pri:0, instance:com.nopecommerce.user.User_01_Register_Login@130161f7]" started-at="2022-05-28T16:54:40 ICT" name="TC_01_Register_Empty_Dat" finished-at="2022-05-28T16:54:40 ICT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Register_Empty_Dat -->
+        <test-method signature="TC_02_Register_Invalid_Email()[pri:0, instance:com.nopecommerce.user.User_01_Register_Login@130161f7]" started-at="2022-05-28T16:54:40 ICT" name="TC_02_Register_Invalid_Email" finished-at="2022-05-28T16:54:40 ICT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_Register_Invalid_Email -->
+        <test-method signature="TC_03_Register_Invalid_Password()[pri:0, instance:com.nopecommerce.user.User_01_Register_Login@130161f7]" started-at="2022-05-28T16:54:40 ICT" name="TC_03_Register_Invalid_Password" finished-at="2022-05-28T16:54:40 ICT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_Register_Invalid_Password -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopecommerce.user.User_01_Register_Login@130161f7]" started-at="2022-05-28T16:54:40 ICT" name="afterClass" finished-at="2022-05-28T16:54:40 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopecommerce.user.User_01_Register_Login -->
+    </test> <!-- Run on Chrome -->
+  </suite> <!-- User Nopcommerce -->
+</testng-results>
